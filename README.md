@@ -1,1 +1,2 @@
 # odin-recipesII
+A first introduction project from The Odin Project to help build the foundation of HTML, CSS, JavaScript, and more. This shows I have acquired the skills to use Git, Github, structuring my code, how to research and troubleshoot, and many more.
